@@ -1,0 +1,8 @@
+* display flex coloca tudo em linha ocupando o máximo de espaço da área
+* align items é o alinhamento vertical.
+* justify content é o alinhamento horizontal
+    tanto no align items como no justify, temos:
+    space-evenly : alinha espaço tanto x, quanto y quanto dos lados
+    space-around: deixa mais espaço no meio que nos lados
+    space-between: zera espaços nas laterais e coloca no meio
+    start: começa da esquerda para direita
